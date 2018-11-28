@@ -2,6 +2,8 @@
 
 this week i've cloned the project repo and started on looking at the code base.
 most of the stack is unfamiliar to me so i started looking at the necessary frameworks required
+i was able to find a mean stack tutorial online and am planning to look into it while reading up on documentation
+about angular itself
 
 ## This Week's Plan
 

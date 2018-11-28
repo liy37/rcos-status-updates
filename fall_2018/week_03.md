@@ -1,6 +1,7 @@
 ## Last Week's Accomplishments
 
-able to make a web app using mean which gave me some practice with the mean stack
+i was able to finish making the web application by following the tutorial. a lot of the information was helpful and 
+talked about how MVC works through the use of scopes. ready to take on a issue in the github repo now
 
 ## This Week's Plan
 
